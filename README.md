@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Weather Forecast with Firebase Authentication and store last fetch data for every time to show next if internet is not available.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
