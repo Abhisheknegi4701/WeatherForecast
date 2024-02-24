@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996334769143",
+    "project_id": "practice-95093",
+    "storage_bucket": "practice-95093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996334769143:android:edd3a4d77592491e4994f2",
+        "android_client_info": {
+          "package_name": "com.abhishek.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGGPhil5q7UiQTkAmyS-6vfnMSQGJxAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
